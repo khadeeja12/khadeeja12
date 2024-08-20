@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Me :
 🌱 I'm currently pursuing my Master's in Computer Applications (MCA).<br>
 🔭 I'm actively looking for job opportunities in software development and web technologies.<br>
 👯 I'm looking to collaborate on dynamic websites and interactive web applications.<br>
